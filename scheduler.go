@@ -141,7 +141,7 @@ func getIDFromCode(s string) int {
 		return 62056716
 	case "IMT2681": // cloud
 		return 61803225
-	case "IMT3003": // tjenestearktiekturdrift
+	case "IMT3003": // tjenestearkitektur og drift
 		return 93287263
 	case "IMT2282": // os
 		return 92487328
